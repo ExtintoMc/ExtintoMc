@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 style="text-align: center; font-weight: bold">Hola, soy <span style="color:  #e95def;">Manuel</span> 👋</h1>
+
+<hr style="border: .5px solid #ccc;" />
+
+<img src="./img/Banner.png" alt="Banner" style="display: block; margin: 0 auto;"/>
+
+<hr style="border: .5px solid #ccc;" />
 
 **ExtintoMc/ExtintoMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
